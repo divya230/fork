@@ -1,0 +1,7 @@
+#the following files r ignored
+*.php
+*.txt
+*.png
+*.git
+!html.php
+[abc].php
