@@ -1,0 +1,8 @@
+#the followings should ignore
+*.php
+*.txt
+*.png
+*.git
+!index.html
+[abc].php
+
